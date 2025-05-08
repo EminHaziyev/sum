@@ -6,7 +6,7 @@ const code = `
     'use strict';
 
     console.log("monitoring");
-    const apiKey = "das8";
+    const apiKey = "fa3396ccf4c8d54efc82d84db227dfe89157fd417d71cdbf9c9dcf00426ba7fc";
 
     function modifyOptionValues() {
         let element = document.querySelector(\`td[title='\${apiKey}']\`);
